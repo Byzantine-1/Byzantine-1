@@ -1,65 +1,73 @@
-# 👋 Hi, I'm @Byzantine-1
+# 👋 Hi, I’m Joshua Nagle (@Byzantine-1)
 
-Welcome to my GitHub! I'm a computer science graduate and lifelong builder passionate about practical AI, mobile app development, and pushing the boundaries of field tech.
+I’m a **B.S. Computer Science graduate** and hands-on builder focused on **practical AI**, **durable systems**, and **mobile-first tools** that work in the real world (offline, noisy inputs, high feedback loops).
 
----
-
-## 🚀 About Me
-
-- 🎓 **B.S. in Computer Science**
-- 🤖 **Currently building [Yondo](https://github.com/Byzantine-1/yondo):**  
-  A React Native/Expo mobile app for door-to-door sales reps—real-time log tracking, audio recording, and **AI-powered instant sales coaching** with OpenAI GPT-4
-- 💡 **Past Projects:**  
-  - Agentic writing workflow for automated book/story generation (OpenAI API + SQLite + web stack)
-  - Deep learning/autoencoder projects for anomaly detection and ML model experimentation
-  - Indie game prototyping in Unity and JavaScript (Four in a Row, text-based games)
-  - Door-to-door solar and sales process optimization (real-world data meets code!)
-
-- 🛠️ **Tech I Use:**  
-  - React Native, Expo, TypeScript, Python
-  - OpenAI/LLM API integration, AsyncStorage, REST/GraphQL
-  - XAMPP/LAMP, MySQL, MongoDB
-  - Linux, VS Code, Git, Bash scripting
-
-# 👋 Hi, I'm @Byzantine-1
-
-Welcome to my GitHub! I'm a computer science graduate and lifelong builder passionate about practical AI, mobile app development, and pushing the boundaries of field tech.
+- 🧠 I like shipping systems that are **deterministic, testable, and replay-safe**
+- 🛠️ Interests: **agent workflows**, **LLM integrations**, **automation**, **field tech**, **simulation engines**
+- 📍 Based in the U.S.
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Work (Public)
 
-- 🎓 **B.S. in Computer Science**
-- 🤖 **Currently building [Yondo](https://github.com/Byzantine-1/yondo):**  
-  A React Native/Expo mobile app for door-to-door sales reps—real-time log tracking, audio recording, and **AI-powered instant sales coaching** with OpenAI GPT-4
-- 💡 **Past Projects:**  
-  - Agentic writing workflow for automated book/story generation (OpenAI API + SQLite + web stack)
-  - Deep learning/autoencoder projects for anomaly detection and ML model experimentation
-  - Indie game prototyping in Unity and JavaScript (Four in a Row, text-based games)
-  - Door-to-door solar and sales process optimization (real-world data meets code!)
+### 🧱 Minecraft God / World Engine (Simulation + Systems)
+I’m building a replay-safe “world engine” that can drive a living simulation: **economy, quests, factions, news/chronicle, and nightly threat loops**—designed to scale and remain deterministic under stress.
 
-- 🛠️ **Tech I Use:**  
-  - React Native, Expo, TypeScript, Python
-  - OpenAI/LLM API integration, AsyncStorage, REST/GraphQL
-  - XAMPP/LAMP, MySQL, MongoDB
-  - Linux, VS Code, Git, Bash scripting
+**What’s interesting about it:**
+- Transactional mutations + **eventId idempotency** (replay-safe outcomes)
+- Durable world features: markers, jobs, markets/trades, town board, quests
+- Stress validation with invariants (integrity checks, lock timeout monitoring)
+
+**Repos to check:**
+- `MineCraftGodWorld`
+- `MinecraftGodMVP-blackbox` (stress + invariants)
 
 ---
 
-## 🌱 Currently Learning
+### 🧪 Systems & Utilities
+A grab-bag of practical experiments and tools I iterate on while building larger products.
 
-- Advanced React Native (multi-platform mobile)
-- Prompt engineering for AI agents & LLMs
-- Cloud architecture (Firebase, AWS, Supabase)
-- NLP and NEPQ for sales/psychology-driven features
+**Repo to check:**
+- `Basic-Referral-System` (referral tracking / incentives foundation)
 
 ---
 
-## 🤝 Looking to Collaborate
+## 🔒 Private / In Progress (Available on Request)
 
-- **AI-driven apps:** Trading bots, workflow automation, mobile-first AI
-- **Open source projects:** Field data collection, agentic writing, analytics tools
-- **If you're passionate about using AI in the real world, let's connect!**
+### 📱 Yondo — AI-Powered Sales Coaching (Private)
+A React Native/Expo app for door-to-door reps to **log outcomes fast**, **record conversations**, and receive **AI coaching**.  
+*Repo is private for now — I can share a demo or grant read-only access for employers on request.*
+
+---
+
+## 🧰 Tech I Use
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Mobile:** React Native, Expo  
+**AI/Agents:** OpenAI API, agent orchestration, prompt engineering  
+**Data/DB:** SQLite, MySQL, MongoDB  
+**Tooling:** Git/GitHub, Linux, Bash, VS Code, XAMPP/LAMP  
+
+---
+
+## 🌱 Currently Learning / Leveling Up
+- Advanced React Native patterns (offline-first, multi-platform UX)
+- Reliable agent systems (bounded outputs, deterministic fallbacks)
+- Cloud architecture basics (AWS / Firebase / Supabase)
+
+---
+
+## 🤝 Open to Collaborate On
+- AI-driven tools with real users and real constraints (field workflows, ops automation)
+- Deterministic simulations and replay-safe architectures
+- Mobile-first products with strong UX + metrics
+
+---
+
+## 📫 Contact
+Open an **Issue** or **Discussion** on any repo. If it’s a fit, we can move to email/Discord for a deeper review.
+
+**Always building. Always learning.**
+
 
 ---
 
